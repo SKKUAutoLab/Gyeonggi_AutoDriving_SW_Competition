@@ -6,7 +6,7 @@
 <tr>
 <td align="center" width="50%">
 
-[📄경기도_자율주행_SW경진대회_사전교육PDF 다운로드](https://github.com/user-attachments/files/23303948/_._SW._.pdf?raw=true)
+[📄경기도_자율주행_SW경진대회_사전교육PDF 다운로드](https://github.com/user-attachments/files/23324453/_._SW._.pdf?raw=true)
 <img src="https://github.com/user-attachments/assets/b87188ee-6888-4927-92f7-51bcb5bb4e45" width="500" alt="사진1"/>
 
 </td>
